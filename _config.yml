@@ -7,12 +7,12 @@ description: "记录知识"
 keyword: "Blog, 汪康的博客, wangkang, 汪康, Devops"
 url: "http://wkcong.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/wkcong/wkcong.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "努力学习,终有所获"
-sidebar-avatar: /img/views.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/myself.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
